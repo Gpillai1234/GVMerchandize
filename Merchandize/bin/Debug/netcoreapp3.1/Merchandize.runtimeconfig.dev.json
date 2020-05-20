@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gpillai.REGENCYFURNITUR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gpillai.REGENCYFURNITUR\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
